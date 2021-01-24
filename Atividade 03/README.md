@@ -1,7 +1,3 @@
-<div align='center'>
-<img src=".github/logo.png" width='250'>
-</div>
-
 ## 🚀 Atividade
 
 Construa uma jornada do usuário.

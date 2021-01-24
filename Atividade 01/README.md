@@ -1,7 +1,3 @@
-<div align='center'>
-<img src=".github/logo.png" width='250'>
-</div>
-
 ## 🚀 Atividade
 
 A empresa em que você trabalha foi contratada para inovar e realizar melhorias em um aplicativo de caronas. Para isso, é necessário fazer uma pesquisa com os usuários.
